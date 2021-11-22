@@ -1,0 +1,14 @@
+/.gradle/
+/.settings/
+/.metadata/
+/.vscode/
+.classpath
+.project
+/.idea/
+
+# build files
+/build/
+/bin/
+
+# Mac recovery files
+.DS_Store
